@@ -1,5 +1,4 @@
 import Class from '@renderer/types/class'
-import AddCard from './AddCard'
 import NotesRow from './NotesRow'
 import RowOptions from './RowOptions'
 

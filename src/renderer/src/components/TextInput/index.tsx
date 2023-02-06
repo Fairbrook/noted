@@ -1,4 +1,4 @@
-import { DetailedHTMLProps, HTMLProps, InputHTMLAttributes } from 'react'
+import { DetailedHTMLProps, InputHTMLAttributes } from 'react'
 
 function TextInput(
   props: DetailedHTMLProps<InputHTMLAttributes<HTMLInputElement>, HTMLInputElement>

@@ -1,10 +1,29 @@
-# noted
+# Noted
 
-An Electron application with React and TypeScript
+__Autor__: Kevin Alan Martinez 219294382
 
-## Recommended IDE Setup
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+Aplicación para hacer notas rápidas en tus classes en markdown, basada en React, Electron y Typescript
+
+__Lo mejor: no hay botnes de guardar, todo se guarda de forma automática!!__
+
+## Capturas de pantalla
+
+### Pantalla de inicio
+![](https://i.ibb.co/fk4dmRp/Screen-Shot-2023-02-06-at-12-08-26.png)
+
+### Agregar una clase
+![](https://i.ibb.co/t2nx3Kc/Screen-Shot-2023-02-06-at-12-08-36.png)
+![](https://i.ibb.co/r7G6d1d/Screen-Shot-2023-02-06-at-12-08-39.png)
+
+### Agrega una nota
+![](https://i.ibb.co/wgD0nqc/Screen-Shot-2023-02-06-at-12-09-43.png)
+![](https://i.ibb.co/tKJkv5X/Screen-Shot-2023-02-06-at-12-09-50.png)
+
+## Como instalar
+
+Si tiene uno de los sistemas soportados (Linux, Widnows, Mac) puede usar uno de los
+binarios disponibles en [release](https://github.com/Fairbrook/noted/releases)
 
 ## Project Setup
 
@@ -20,15 +39,3 @@ $ npm install
 $ npm run dev
 ```
 
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
